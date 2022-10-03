@@ -148,6 +148,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Useful linter web](http://usefulinterweb.com/) - The best links every day. ([Archive](http://usefulinterweb.com/archive))
 - [Spatial Awareness](https://www.getrevue.co/profile/maps) - Regular editorial focused on the maps and the spatial community.
 - [Maker Mind](https://makermind.nesslabs.com/) - Weekly newsletter at the intersection of neuroscience and entrepreneurship, with science-based tips to make the most of your brain.
+- [Morning Brew](https://morninghedge.com/) - Email newsletter covering the latest news from Wall St. to Silicon Valley.
 - [Open Source Weekly](https://opensourceweekly.org/) - Weekly letter of the best projects, people and articles on open source, curated by hand.
 - [Everybody Letter](https://letter.substack.com/) - Learnings from the past, thinking ahead.
 - [Out Of Pocket](https://outofpocket.substack.com/) - Weekly comedic deep-dive and analysis into the rabbithole of US health care system.
